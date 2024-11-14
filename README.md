@@ -17,7 +17,7 @@ pip install dash dash-bootstrap-components pandas plotly
 
 ## Running
 
-Navigate to the project directory:
+Navigate to the project directory (located in the Code and Data folder):
 
 then run app.py
 
