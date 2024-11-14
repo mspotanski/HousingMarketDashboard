@@ -1,6 +1,9 @@
 # US Housing Market Analysis Dashboard
+### This dashboard was made as a collaborative class project at the University of Minnesota for class CSCI 5609 Visualization between Akshat Ghoshal, Rohan Shanbhag, and Marcus Spotanski. 
 
-This repository contains a Dash application that provides an interactive dashboard for analyzing housing market trends across the United States. The dashboard allows users to explore key data points such as the Housing Price Index, median household income, median home sale prices, minimum income needed, mortgage rates, and monthly payments for different states and time periods.
+This repository contains a Dash application that provides an interactive dashboard for analyzing housing market trends across the United States. The dashboard allows users to explore key data points such as the Housing Price Index, median household income, median home sale prices, minimum income needed, mortgage rates, and monthly payments for different states and time periods. This dashboard was made as a collaborative class project at the University of Minnesota between Akshat Ghoshal, Rohan Shanbhag, and Marcus Spotanski.
+
+For a concise recount of the project and its key findings, see the final report and presentation! Below, you'll find a quick run down on how to use the dashboard and the code. 
 
 ## Features
 
